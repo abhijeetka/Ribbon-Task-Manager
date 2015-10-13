@@ -8,7 +8,6 @@
   - Project creation
   - Task creation 
   - Assigning weights to tasks
-<<<<<<< HEAD
   - file uploads
   - project sharing 
 
