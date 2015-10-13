@@ -8,8 +8,8 @@
   - Project creation
   - Task creation 
   - Assigning weights to tasks
-  - file uploads
-  - project sharing 
+  - file uploads.
+  - project sharing. 
 
 
 
