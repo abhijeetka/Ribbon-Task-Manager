@@ -9,7 +9,7 @@
   - Task creation 
   - Assigning weights to tasks
   - file uploads
-  - easy project sharing.
+  - project sharing.
 
 
 
