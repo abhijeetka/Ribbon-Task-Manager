@@ -12,5 +12,3 @@ class Projectuser extends \Eloquent {
 
 }
 
-/* Adding comments at the end of file */
-// This is one additional comment for this file
