@@ -89,3 +89,6 @@ class User extends Eloquent implements UserInterface, RemindableInterface {
 	}
 
 }
+/* Adding comments at the end of file
+Thish is User model create using Laravel framework
+ */
