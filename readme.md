@@ -13,7 +13,6 @@
 
 
 
-
 #Installation
 -   Clone the repo(with git clone url  )
 -   Run composer install( or composer update  )
