@@ -12,4 +12,3 @@ class Projectuser extends \Eloquent {
 
 }
 
-
