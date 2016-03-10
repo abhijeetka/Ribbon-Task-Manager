@@ -8,8 +8,8 @@
   - Project creation
   - Task creation 
   - Assigning weights to tasks
-  - file uploads is easy.
-  - project sharing.
+  - file uploads is too easy and fast.
+  - project sharing is too easy.
 
 
 
