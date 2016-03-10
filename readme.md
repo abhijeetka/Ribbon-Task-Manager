@@ -10,6 +10,8 @@
   - Assigning weights to tasks
   - file uploads is too easy and fast.
   - project sharing is too easy.
+  - file uploads is too easy.
+  - project sharing.
 
 
 
